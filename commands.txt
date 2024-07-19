@@ -1,0 +1,28 @@
+# Steps to run this code
+
+VS Code Commands 
+
+# pip install requests
+# pip show flask 
+# pip install flask 
+
+# Create a Virtual Environment named env (you can replace env with any name you prefer):  
+    # python -m venv env
+# Activate the Virtual Environment: 
+    # .\env\Scripts\activate 
+
+# Install requests Module:  
+    # pip install requests 
+    # pip install flask-mysqldb
+    # import flask_mysqldb
+    # pip install Flask-SQLAlchemy pymysql
+
+# To run a file
+    # python file_name.py
+
+
+# SQL Commands
+    # GRANT ALL PRIVILEGES ON your_database.* TO 'your_username'@'localhost' IDENTIFIED BY 'your_password';
+    # FLUSH PRIVILEGES;
+
+
